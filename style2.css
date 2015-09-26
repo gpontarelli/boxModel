@@ -101,7 +101,7 @@ p {
   #padding4 {
     background-color: maroon;
     padding-top: 15%;
-    padding-bottom: 15%
+    padding-bottom: 15%;
   }
   #singleSide1 {
     border-bottom: 1px grey solid;
@@ -121,5 +121,5 @@ p {
     margin-right: 5%;
     padding-left: 3em;
     padding-top: 3em;
-    padding-bottom: 3em
+    padding-bottom: 3em;
   }
